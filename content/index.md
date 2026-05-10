@@ -1,11 +1,13 @@
 ---
-title: Welcome
-#Seedling
+title: My Home
 ---
-# My Home
----
+----
 
-This is my home feel free to explore.
+Welcome!
+
+I'm Zane and this is the home of my digital garden.
+
+---
 
 Home is where the heart is.
 
@@ -13,14 +15,14 @@ Home is where the heart is.
 
 ---
 
-At the dinner table I ask,
+One central question to my work is
 
-[[What is the power of question?]]
+"[[How do we connect with others?]]"
 
 ---
 
-And before you leave,
+I hope to learn through exploration and conversation as I
 
-you may see why I
+[[Repair the world]]
 
-[[Work with the garage door open]]
+---
