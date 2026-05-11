@@ -5,6 +5,10 @@ tags:
 ---
 # The Central Question: How to best support neurodivergent kids?
 
+## Definition
+
+> Neurodivergent - having or relating to a disorder or condition (such as autism spectrum disorder, attention deficit hyperactivity disorder, dyslexia, or obsessive-compulsive disorder) that impacts the way the brain processes information
+
 ## Key Principles
 ### Conversational Learning
 
