@@ -5,7 +5,7 @@ title: My Home
 
 Welcome!
 
-I'm Zane and this is the home of my digital garden.
+This is the home of my digital garden.
 
 ---
 
@@ -21,7 +21,7 @@ One central question to my work is
 
 ---
 
-I hope to learn through exploration and conversation as I
+I hope to learn through exploration and conversation to
 
 [[Repair the world]]
 
