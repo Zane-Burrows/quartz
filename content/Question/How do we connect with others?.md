@@ -7,7 +7,8 @@ tags:
 
 ## Conversation
 
-I believe conversation is one of the best methods to connect with another person. Though to make another feel heard is to put one's ego aside and listen intently.
+- I believe conversation is one of the best methods to connect with another person. 
+- Though to make another feel heard is to put one's ego aside and listen intently.
 
 ### Research
 
