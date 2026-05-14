@@ -6,4 +6,4 @@
 
 Intentional self expression can start great conversations.
 
-> Often when I am out with my partner, people will compliment her rings. This soon leads to a great conversations about the places she has found them. The other person has found a conversational in.
+> Often when I am out with my partner, people will compliment her rings. This often leads to a conversation about the places she found them. The other person has found a conversational in.

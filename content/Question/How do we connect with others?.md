@@ -16,8 +16,11 @@ tags:
 
 ## Activity
 
--A Conversation on Shared Activity: 
-- "We all get to temporally grow in our friendship with XXX and also with each other by getting to celebrate XXX doing her recital tonight because this is an important thing to them and we get to share in it. And then in the future that can be a thing we can call back to."
+A Conversation with David on Shared Activity: 
+
+![[David_Shared_Activity.mp3]]
+
+"We all get to temporally grow in our friendship with Jordyn and also with each other by getting to celebrate Jordyn doing her recital tonight because this is an important thing to them and we get to share in it. And then in the future that can be a thing we can call back to."
 
 [[Couples' shared participation in novel and arousing activities and experienced relationship quality]]
 
