@@ -14,6 +14,6 @@ Defining my version of polymath
 	- Conversation-based connection
 	- Activity-based connection
 
-In order to become a polymath, I believe in the power of [[Routine as intentionality]].
+In order to become a polymath, I believe in the power of [[Routine as intentional]].
 - As my dad once proudly explained to me, several great thinkers of our time wear the same outfit everyday to reduce decision fatigue. Similarly, I believe that routine has the same benefit. By reducing the mental effort placed on making choice, we may use our mental efforts towards activities important to us.
 - With limited spoons each day ([Spoon Theory](https://lymphoma-action.org.uk/sites/default/files/media/documents/2020-05/Spoon%20theory%20by%20Christine%20Miserandino.pdf)), routine allows me to allocate spoons based on efforts most important to me.
