@@ -11,6 +11,6 @@ In order to move towards a solution, I have decided to work with the [[Work with
 
 ---
 
-Teaching through [[Ephemeral magical experience]]
+Teaching through [[Ephemeral magical experiences]]
 - We often grow best when we are slightly out of our comfort zones. Ephemeral Magical Experiences place us in these growth zones. Because we are out of our comfort zones yet still in safe environment, we are free to explore in a learning playground.
 - For me, camp is an ephemeral magical experience.
