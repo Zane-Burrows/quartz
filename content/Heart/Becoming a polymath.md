@@ -1,8 +1,3 @@
----
-tags:
-  - Seedling
-  - Heart
----
 > Polymath - A person of encyclopedic learning
 
 Becoming a polymath is a pursuit primarily for myself.

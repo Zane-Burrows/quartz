@@ -1,8 +1,3 @@
----
-tags:
-  - Seedling
-  - Repair
----
 It begins like this:
 - The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called _Le Cirque des Rêves_, and it is only open at night.
 ---

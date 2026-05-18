@@ -1,8 +1,3 @@
----
-tags:
-  - Seedling
-  - Repair
----
 Defined by [David Gurteen](https://conversational-leadership.net/conversational-learning-introduction/)
 
 > Conversational Learning - form of learning that takes place through meaningful conversations and interactions between individuals

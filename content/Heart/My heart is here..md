@@ -1,8 +1,3 @@
----
-tags:
-  - Seedling
-  - "#Intention"
----
 # I plan to live intentionally through this framework of using my time:
 
 > My World - Restful activities that restore me so I can repair the world the next day ([[Becoming a polymath]])

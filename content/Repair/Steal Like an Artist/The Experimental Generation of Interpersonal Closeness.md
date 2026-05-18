@@ -1,8 +1,3 @@
----
-tags:
-  - Seedling
-  - Creativity
----
 > The study explores a closeness-generating experimental paradigm through self-disclosure and closeness generating tasks.
 
 Discovery

@@ -1,8 +1,3 @@
----
-tags:
-  - Seedling
-  - Connection
----
 # The Central Question: How do we connect with others?
 
 Conversation
