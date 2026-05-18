@@ -10,19 +10,16 @@ tags:
 - I believe conversation is one of the best methods to connect with another person. 
 - Though to make another feel heard is to put one's ego aside and listen intently.
 
-[[The Experimental Generation of Interpersonal Closeness]]
+Research: [[The Experimental Generation of Interpersonal Closeness]]
 
 > Greater post-interaction closeness with self-disclosure and relationship-building tasks versus comparable small-talk tasks
 
 ## Activity
 
-A Conversation with David on Shared Activity: 
+A conversation on shared activity: 
 
-![[David_Shared_Activity.mp3]]
+"We all get to temporally grow in our friendship with XXX and also with each other by getting to celebrate XXX doing her recital tonight because this is an important thing to them and we get to share in it. And then in the future that can be a thing we can call back to."
 
-"We all get to temporally grow in our friendship with Jordyn and also with each other by getting to celebrate Jordyn doing her recital tonight because this is an important thing to them and we get to share in it. And then in the future that can be a thing we can call back to."
-
-[[Couples' shared participation in novel and arousing activities and experienced relationship quality]]
+Research: [[Couples' shared participation in novel and arousing activities and experienced relationship quality]]
 
 > Predicted greater increases in experiences relationship quality fro before to after participating in a 7-minute novel and arousing (vs. a more mundane) task
-
