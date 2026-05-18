@@ -1,3 +1,9 @@
+---
+tags:
+  - Seedling
+  - Connection
+---
+
 > Similar to conversation starter, but rather it is the object itself that prompts the beginning of conversation.
 
 Art as a conversational in
