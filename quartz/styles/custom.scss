@@ -27,13 +27,13 @@
 ========================= */
 
 body {
-  font-family: "EB Garamond", serif;
+  font-family: "EB Garamond";
   color: var(--dark);
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "EB Garamond", serif;
+  font-family: "EB Garamond";
   color: var(--secondary);
 }
 
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 .explorer-item-title,
 .explorer-item-children,
 article {
-  font-family: "EB Garamond", serif;
+  font-family: "EB Garamond";
 }
 
 /* UI elements that should NOT use serif */
@@ -57,7 +57,7 @@ nav,
 button,
 input,
 .search-button {
-  font-family: "EB Garamond", serif;
+  font-family: "EB Garamond";
 }
 
 /* Folder / tree navigation */
@@ -66,7 +66,7 @@ input,
 .folder-icon + span,
 .tree-item,
 .tree-item-children {
-  font-family: "EB Garamond", serif;
+  font-family: "EB Garamond";
 }
 
 /* =========================
