@@ -8,7 +8,7 @@ Conversation
 ---
 
 Activity
-- A conversation on shared activity: 
+- A conversation with D on shared activity: 
 	- "We all get to temporally grow in our friendship with XXX and also with each other by getting to celebrate XXX doing her recital tonight because this is an important thing to them and we get to share in it. And then in the future that can be a thing we can call back to."
 - Research: [[Couples' shared participation in novel and arousing activities and experienced relationship quality]]
 	- Predicted greater increases in experiences relationship quality fro before to after participating in a 7-minute novel and arousing (vs. a more mundane) task
