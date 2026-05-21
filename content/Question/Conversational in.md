@@ -4,3 +4,6 @@ Art as a conversational in
 - Intentional self expression can start great conversations.
 - Anecdote:
 	- Often when I am out with my partner, people will compliment her rings. This often leads to a conversation about the places she found them. The other person has found a conversational in.
+
+Environment as a conversational aid
+- Feng shui - practice originating from ancient Chinese culture of designing one's environment to harmonize with qi, "cosmic current" or energy
