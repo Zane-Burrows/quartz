@@ -7,7 +7,7 @@ A central part to understanding this question is determining the needs of neurod
 ---
 
 In order to move towards a solution, I have decided to [[Work with the garage door open]].
-- I believe in the importance of continuous learning and growth ([[Becoming a polymath]]). However, it is difficult for one to learn in a vacuum. In order to be creative, we must [[Steal Like an Artist]].
+- I believe in the importance of continuous learning and growth ([[Rejuvenation]]). However, it is difficult for one to learn in a vacuum. In order to be creative, we must [[Steal Like an Artist]].
 - I learn best through [[Conversational learning]].
 
 ---
