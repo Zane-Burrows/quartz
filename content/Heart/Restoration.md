@@ -1,4 +1,4 @@
-Defining my version of rejuvenation
+Defining my version of restoration
 - I use the conceptual framework of three types of health - mental, physical, and social. I aim to participate in activities in each sector to restore me and grow in.
 - Mental health activities that restore me:
 	- Stream of Consciousness Journaling ([[Morning Pages]])
