@@ -10,3 +10,5 @@
 
 "Fill your own cup, and let them fall in love with the overflow" - Harry Styles
 
+In a conversation with D, we discussed the power of motivation between short-term and long-term happiness ([[Type I vs type II model of fun]]). This quote resonated with me, "You need to have the short-term happiness because sometimes you need that little spark to get you doing something". It is a powerful reminder to take care of yourself, so you can take care of others.
+
