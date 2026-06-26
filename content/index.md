@@ -8,5 +8,3 @@ In the year 2025, a 22 year old wrestles with intentional living.
 ---
 
 1 [[Anam Cara]]
-
-2 
