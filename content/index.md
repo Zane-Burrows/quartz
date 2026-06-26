@@ -1,28 +1,12 @@
 ---
-title: My Home
+title: Welcome
 ---
-----
+In the year 2020, the average life expectancy for a human is 77 years.
 
-Welcome!
-
-This is the home of my digital garden.
+In the year 2025, a 22 year old wrestles with intentional living.
 
 ---
 
-Home is where the heart is.
+1 [[Anam Cara]]
 
-[[My heart is here.]]
-
----
-
-One central question to my work is
-
-"[[How do we connect with others?]]"
-
----
-
-I hope to learn through exploration and conversation to
-
-[[Repair the world]]
-
----
+2 

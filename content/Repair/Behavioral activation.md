@@ -1,1 +1,0 @@
-Behavioral activation - cognitive behavioral therapy technique in which individuals engage in positive and/or meaningful activities to improve mood
