@@ -2,6 +2,3 @@ When I was proposing a closer relationship, one of the things that I was thinkin
 
 ---
 
----
-
-[[4 Anam Cara]]

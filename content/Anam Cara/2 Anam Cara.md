@@ -2,6 +2,7 @@ If you can stack up enough of those hedonic happiness half-lives at staggered in
 
 ---
 
+In-terms of restorative activities, I think that distinguishing the difference between hedonic, short-term happiness, and eudaimonic, long-term happiness, activities is so important because we need a mixture of both. I’ve found that based on my energy state, these activities serve different purposes for me. I enjoy collaging and going to the gym, but collaging takes much less physical effort. Given I’m a morning person, I’ll collage at the end of my day to help me relax and go to the gym when I have the most energy and motivation to do so.
+
 ---
 
-[[3 Anam Cara]]

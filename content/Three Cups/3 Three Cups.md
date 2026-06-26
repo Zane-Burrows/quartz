@@ -1,0 +1,4 @@
+I often find myself drawn to people with the shared interest of mentoring kids. Though I think the deeper meaning behind this is that several that go into this field find meaning from creating spaces that they did not have as kids or wish to replicate spaces they had as a kid. In such, both often have a desire to "do better" for the next generation.
+
+---
+
