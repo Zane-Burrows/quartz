@@ -253,6 +253,11 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+    options:
+      maxTabs: 8
+      mobileBreakpoint: 800
+      showSpines: true
+      animateTransitions: true
 layout:
   groups:
     toolbar:
