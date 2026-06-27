@@ -30,16 +30,16 @@ configuration:
         tertiary: "#a64545"
         highlight: "#8080801a"
         textHighlight: "#80000022"
-      dark:
-  light: "#1f1f1f"
-  lightgray: "#2d2d2d"
-  gray: "#5f5f5f"
-  darkgray: "#bdbdbd"
-  dark: "#f2f1ed"
-  secondary: "#9b3b3b"
-  tertiary: "#d27777"
-  highlight: "#ffffff12"
-  textHighlight: "#b23b3b40"
+      darkMode:
+        light: "#1f1f1f"
+        lightgray: "#2d2d2d"
+        gray: "#5f5f5f"
+        darkgray: "#bdbdbd"
+        dark: "#f2f1ed"
+        secondary: "#9b3b3b"
+        tertiary: "#d27777"
+        highlight: "#ffffff12"
+        textHighlight: "#b23b3b40"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
