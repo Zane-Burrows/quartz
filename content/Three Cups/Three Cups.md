@@ -1,6 +1,6 @@
 [[1 Three Cups]]
 
-I would argue that one of my purposes, now at least, is self-restoration. Now I may not be actively thinking about activities as self-restoration at the moment, but it is still part of my greater purpose. I believe that when we spend an appropriate amount of time on ourselves, we are better able to show up for the people around us as well.
+I would argue that one of my purposes, now at least, is self-restoration. Now I may not be actively thinking about activities as self-restoration in the moment, but it is still part of my greater purpose. I believe that when we spend an appropriate amount of time on ourselves, we are better able to show up for the people around us as well.
 
 [[2 Three Cups]]
 
