@@ -1,3 +1,6 @@
+---
+title: Welcome
+---
 **Memento mori memento vivere**
 
 1 [[Three Cups]]
