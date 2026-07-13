@@ -1,9 +1,15 @@
 ---
 title: Welcome
 ---
+**22 Memento Mori Memento Vivere 77**
 
-**Memento mori memento vivere**
+[[A Warm Cup]]
+	A framework for hope:
+	A warm cup of coffee can help someone look forward to tomorrow
 
-1 [[Three Cups]]
+[[Three Cups]]
+	A framework for time:
+	Live for My Self
+	Live for My Loved Ones
+	Live for My Community
 
-2 [[A Warm Cup]]
