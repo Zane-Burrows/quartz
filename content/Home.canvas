@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5ca39ef33832c3d1","type":"file","file":"A Warm Cup/A Warm Cup.md","x":-40,"y":-640,"width":400,"height":400},
+		{"id":"9466a022d67fc050","type":"file","file":"Welcome.md","x":-40,"y":-160,"width":400,"height":400,"color":"6"},
+		{"id":"fdc3ef068643a8c3","x":-40,"y":320,"width":400,"height":400,"type":"file","file":"Three Cups/Three Cups.md"}
+	],
+	"edges":[]
+}
