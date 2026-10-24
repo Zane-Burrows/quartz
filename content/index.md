@@ -1,16 +1,15 @@
 ---
 title: Welcome
 ---
-**22 Memento Mori Memento Vivere 77**
+# Welcome! 
+### A collection of notes on living intentionally
+##### I am an intentional, silly, kind human. 
 
-[[A Warm Cup]]
+# [[Live for Myself]]
+To live for myself is to pursue flow state activities
 
-A framework for hope:
-- A warm cup of coffee can help someone look forward to tomorrow
+# [[Live for My Loved Ones]]
+To live for my loved ones is to be silly and to support.
 
-[[Three Cups]]
-
-A framework for time:
-- Live for My Self
-- Live for My Loved Ones
-- Live for My Community
+# [[Live for My Community]]
+To life for my community is to feel a sense of belonging and to provide.
