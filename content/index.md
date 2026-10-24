@@ -1,9 +1,7 @@
 ---
-title: Welcome
+title: A Framework for Time
 ---
-# Welcome! 
-### A collection of notes on living intentionally
-##### I am an intentional, silly, kind human. 
+# A collection of notes on living intentionally
 
 # [[Live for Myself]]
 To live for myself is to pursue flow state activities
