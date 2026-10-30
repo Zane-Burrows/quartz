@@ -1,1 +1,0 @@
-flow state - a mental state of total immersion, intense focus, and effortless engagement in an activity
